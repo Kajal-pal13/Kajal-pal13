@@ -81,13 +81,14 @@ An Excel-based dashboard created to analyze hospital emergency room data using i
 > 🚧 More data analytics and MIS projects are currently being developed.
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kajal-pal13&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajal-pal13&layout=compact&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kajal-pal13&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajal-pal13&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
 </p>
+
+
 
 ---
 
