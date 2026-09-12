@@ -49,12 +49,8 @@ Power Query • DAX • Data Modeling • Dashboards • Data Visualization • 
 
 ### 🐍 Programming & Libraries
 
-<p align="left">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+
+ <p align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge%26logo=python%26logoColor=white" /><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge%26logo=numpy%26logoColor=white" /><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge%26logo=pandas%26logoColor=white" /><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge%26logo=matplotlib%26logoColor=white" /><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge%26logo=python%26logoColor=white" />
 </p>
 
 ---
