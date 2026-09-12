@@ -77,7 +77,7 @@ An interactive dashboard designed to analyze mobile sales performance and provid
 
 An Excel-based dashboard created to analyze hospital emergency room data using interactive reports and visualizations.
 
-🔗 **[View Project](https://github.com/kajal-pal13)**
+🔗 **[View Project](https://github.com/Kajal-pal13/Hospital-emergency-room-Dashboard)**
 
 ---
 
